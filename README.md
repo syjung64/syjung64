@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 동양미래대학교 컴퓨터공학부 정석용 교수입니다. 👋
+- 😄 함께여서 늘 행복합니다.
 <!--
 **syjung64/syjung64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
