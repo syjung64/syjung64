@@ -1,8 +1,9 @@
 ### 동양미래대학교 컴퓨터공학부 정석용 교수입니다. 👋 <br>
 😄 함께여서 늘 행복합니다. Happy Together...😄
-<!--
-**syjung64/syjung64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm Suk-Yong Jung, Professor in the Department of Computer Software Engineering at Dongyang Mirae University.
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
